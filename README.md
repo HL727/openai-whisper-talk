@@ -3,8 +3,6 @@ openai-whisper-talk
 
 `openai-whisper-talk` is a sample `voice conversation` application powered by [OpenAI](https://openai.com) technology such as [Whisper](https://openai.com/blog/whisper/), an automatic speech recognition (ASR) system, and [Text completion endpoint](https://beta.openai.com/docs/guides/completion/introduction), an interface to generate or manipulate text. The application is built using [Nuxt](https://nuxt.com/docs/getting-started/introduction), a Javascript framework based on [Vue.js](https://vuejs.org/guide/introduction.html).
 
-`openai-whisper-talk`は、`Whisper`や`Text completion endpoint`など、`OpenAI`の技術を活用したサンプル音声会話アプリケーションです。このアプリケーションは、`Vue.js`をベースにしたJavascriptフレームワークである`Nuxt`を使用して構築されています。
-
 
 # Objective
 
